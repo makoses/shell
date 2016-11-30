@@ -1,2 +1,2 @@
 # shell
-database daily operation
+Database daily ops scripts
